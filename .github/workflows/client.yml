@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-9-kwngmin/ \
             --delete
-        working-directory: scripts
+        working-directory: ./my-agora-states-client
